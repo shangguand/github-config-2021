@@ -1,4 +1,4 @@
-# github-config
+# GitHub-config-2021
 
 这是一个 **GitHub 配置仓库（GitHub Configuration Repository）**  
 用于记录和管理本人在 GitHub 使用过程中的配置、约定和说明。
